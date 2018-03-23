@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+    <head>
+      <div class="full-width">
+    <div class="half-width">
+    </div>
+    <div class="half-width">
+        <nav>
+        </nav>
+    </div>
+</div>
+        <title>Title Goes here</title>
+    </head>
+    <body>
+
+      <header>
+        <div class="half-width">
+          <h1>Jubilee Austen</h1>
+          <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#work">Work</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ul>
+<div class="half-width">
+  <h2><span>Hi,</span> I'm a developer that loves clean & elegant code.</h2>
+          </header>
+          <main>
+
+      <section id="about">
+        <div class="full-width">
+    <div class="half-width">
+    </div>
+    <div class="half-width">
+    </div>
+</div>
+        </section>
+
+        <section id="work">
+          <div class="full-width">
+    <div class="half-width">
+    </div>
+    <div class="third-width">
+    </div>
+</div>
+        </section>
+
+        <footer id="contact">
+          <div class="full-width">
+    <div class="half-width">
+      <a href="mailto:hi@jubileeausten.com">
+    </div>
+    <div id="contact-info">
+    </div>
+</div>
+        </footer>
+
+ </main>
+
+    </body>
+</html>
